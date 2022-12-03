@@ -4,7 +4,7 @@ This project is node.js back-end code for a todo app that can create todo and as
 
 Features
 Todo creation
-when a new todo is created, then it's status is pending by default.
+when a new todo is created, it's status is pending by default until you change it.
 you can perfome all the basic operations
 
 Dependencies
